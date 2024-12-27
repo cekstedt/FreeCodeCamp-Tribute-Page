@@ -1,4 +1,4 @@
-# FreeCodeCamp - Building a Cafe Menu
+# FreeCodeCamp - Build a Tribute Page
 
 This is a solution to the [Build a Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page) course on [FreeCodeCamp](https://www.freecodecamp.org/).
 
