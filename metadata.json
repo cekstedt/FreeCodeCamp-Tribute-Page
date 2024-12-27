@@ -1,0 +1,13 @@
+{
+  "name": "Tribute Page",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-Tribute-Page",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page",
+  "hosted": "",
+  "original": true,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html", "css"],
+  "status": "in_progress",
+  "priority": "low"
+}
